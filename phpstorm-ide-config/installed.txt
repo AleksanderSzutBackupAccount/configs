@@ -1,0 +1,20 @@
+dev.meanmail.plugin.nginx-intellij-plugin
+zielu.gittoolbox
+mobi.hsz.idea.gitignore
+com.faebeee.vuecomponentcreator
+some.awesome
+com.intellij.ideolog
+com.intellij.kubernetes
+com.mallowigi
+com.github.copilot
+com.tabnine.TabNine
+com.dmarcotte.handlebars
+org.sonarlint.idea
+izhangzhihao.rainbow.brackets
+com.kalessil.phpStorm.phpInspectionsEA
+com.chrisrm.idea.MaterialThemeUI
+ru.adelf.idea.dotenv
+de.espend.idea.php.annotation
+NEON support
+fr.adrienbrault.idea.symfony2plugin
+tv.twelvetone.intellij.plugins.intellivue
